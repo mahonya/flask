@@ -9,7 +9,7 @@ def index():
 
 
 @app.errorhandler(404)
-def notfound():
+def notfound(error):
     return redirect(url_for('index'))
 
 
