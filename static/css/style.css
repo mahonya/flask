@@ -1,0 +1,17 @@
+body {
+    background: url('https://million-wallpapers.ru/wallpapers/0/0/11231806443343486105/krasochnyj-gorod-na-poberezhe.jpg') no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.di {
+    color: cornflowerblue;
+
+}
+.di a{
+    color:rgb(218, 91, 91);
+    font-style:initial;
+
+}
